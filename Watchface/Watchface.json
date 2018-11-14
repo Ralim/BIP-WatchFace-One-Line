@@ -48,9 +48,9 @@
             "TwoDigitsDay": true,
             "Separate": {
                 "Day": {
-                    "TopLeftX": 154,
+                    "TopLeftX": 127,
                     "TopLeftY": 5,
-                    "BottomRightX": 169,
+                    "BottomRightX": 142,
                     "BottomRightY": 14,
                     "Alignment": "TopLeft",
                     "Spacing": 2,
@@ -58,9 +58,9 @@
                     "ImagesCount": 10
                 },
                 "Month": {
-                    "TopLeftX": 127,
+                    "TopLeftX": 154,
                     "TopLeftY": 5,
-                    "BottomRightX": 142,
+                    "BottomRightX": 169,
                     "BottomRightY": 14,
                     "Alignment": "TopLeft",
                     "Spacing": 2,
@@ -127,7 +127,7 @@
             "Number": {
                 "TopLeftX": 137,
                 "TopLeftY": 145,
-                "BottomRightX": 195,
+                "BottomRightX": 178,
                 "BottomRightY": 154,
                 "Alignment": "TopLeft",
                 "Spacing": 2,
@@ -143,10 +143,10 @@
             "Today": {
                 "OneLine": {
                     "Number": {
-                        "TopLeftX": 55,
+                        "TopLeftX": 63,
                         "TopLeftY": 5,
-                        "BottomRightX": 126,
-                        "BottomRightY": 13,
+                        "BottomRightX": 129,
+                        "BottomRightY": 14,
                         "Alignment": "TopLeft",
                         "Spacing": 2,
                         "ImageIndex": 11,
