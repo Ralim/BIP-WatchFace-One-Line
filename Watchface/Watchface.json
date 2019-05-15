@@ -38,8 +38,8 @@
     },
     "Date": {
         "WeekDay": {
-            "X": 137,
-            "Y": 20,
+            "X": 73,
+            "Y": 5,
             "ImageIndex": 23,
             "ImagesCount": 7
         },
@@ -48,9 +48,9 @@
             "TwoDigitsDay": true,
             "Separate": {
                 "Day": {
-                    "TopLeftX": 127,
+                    "TopLeftX": 125,
                     "TopLeftY": 5,
-                    "BottomRightX": 142,
+                    "BottomRightX": 140,
                     "BottomRightY": 14,
                     "Alignment": "TopLeft",
                     "Spacing": 2,
@@ -73,23 +73,23 @@
     "Status": {
         "Alarm": {
             "Coordinates": {
-                "X": 4,
-                "Y": 24
+                "X": 8,
+                "Y": 19
             },
             "ImageIndexOn": 224
         },
         "Bluetooth": {
             "Coordinates": {
-                "X": 3,
-                "Y": 38
+                "X": 7,
+                "Y": 32
             },
             "ImageIndexOn": 220,
             "ImageIndexOff": 221
         },
         "DoNotDisturb": {
             "Coordinates": {
-                "X": 4,
-                "Y": 56
+                "X": 8,
+                "Y": 48
             },
             "ImageIndexOn": 222
         }
@@ -136,28 +136,6 @@
             },
             "SuffixImageIndex": 22,
             "DecimalPointImageIndex": 21
-        }
-    },
-    "Weather": {
-        "Temperature": {
-            "Today": {
-                "OneLine": {
-                    "Number": {
-                        "TopLeftX": 63,
-                        "TopLeftY": 5,
-                        "BottomRightX": 129,
-                        "BottomRightY": 14,
-                        "Alignment": "TopLeft",
-                        "Spacing": 2,
-                        "ImageIndex": 11,
-                        "ImagesCount": 10
-                    },
-                    "MinusSignImageIndex": 30,
-                    "DelimiterImageIndex": 219,
-                    "AppendDegreesForBoth": false,
-                    "DegreesImageIndex": 31
-                }
-            }
         }
     }
 }
